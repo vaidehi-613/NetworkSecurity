@@ -131,7 +131,7 @@ AWS_ECR_LOGIN_URI
 Embed a demo `.mp4` by uploading it and linking below:
 
 ```markdown
-https://github.com/<user>/<repo>/assets/demo.mp4
+https://github.com/vaidehi-613/NetworkSecurity/blob/main/assets/networksecurity_demo.mp4
 ```
 
 Alternatively, upload to YouTube and add a badge:
